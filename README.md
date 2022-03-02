@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## Github 𝗦𝘁𝗮𝘁𝘀 (Not include private repos)
+## Github 𝗦𝘁𝗮𝘁𝘀
 ![github stats](https://github-readme-stats-self-theta-96.vercel.app/api?username=npsopheak&card_width=510&include_all_commits=true&show_icons=true&theme=radical&count_private=true)  
 ![Top Langs](https://github-readme-stats-self-theta-96.vercel.app/api/top-langs/?username=npsopheak&card_width=500&langs_count=10&show_icons=true&theme=radical&count_private=true&hide=html,css,scss,mql5)
 
