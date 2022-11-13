@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+Hi everyone,
+My name is Promsopheak Nuon. People calls me Sean :-)
 
-## Github 𝗦𝘁𝗮𝘁𝘀
-![github stats](https://github-readme-stats-self-theta-96.vercel.app/api?username=npsopheak&card_width=510&include_all_commits=true&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats-self-theta-96.vercel.app/api/top-langs/?username=npsopheak&card_width=500&langs_count=10&show_icons=true&theme=radical&count_private=true&hide=html,css,scss,mql5,blade,coffeescript,makefile,cmake,hack,apacheconf,sass,ruby,less,shell,livescript,openedge%20abl,systemverilog,powershell,dockerfile,protocol%20buffer,pug,batchfile)
+I'am Senior Solution Architect at Slash.co Multi Programming/Platform Full-stack developer, multi-cloud enginee.
 
 <!--
 **npsopheak/npsopheak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
